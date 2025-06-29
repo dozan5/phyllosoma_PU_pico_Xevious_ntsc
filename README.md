@@ -7,4 +7,4 @@ Katsumi様、KenKen様作成の[MachiKania type M](http://www.ze.em-net.ne.jp/~k
 
 uf2フォルダー内のファイルを参照ください。  
 　　pico版、pico2版、xiao版、xiao2版に分けて保存しています。  
- 　　　※UEBKeyBoadにも対応　キー操作はphyllosoma_Pに準拠、FIREキーはZキー、STARTキーはXキーを追加
+ 　※UEBKeyBoadにも対応　キー操作はphyllosoma_Pに準拠、FIREキーはZキー、STARTキーはXキーを追加
