@@ -1,4 +1,4 @@
-# MachiKania type PU PicoXeviousもどき  
+# MachiKania type PU Pico Xeviousもどき  
 Katsumi様、KenKen様作成の[MachiKania type M](http://www.ze.em-net.ne.jp/~kenken/machikania/typem.html)用に作成した「Xeviousもどき」を  
 [MachiKania type PU](http://www.ze.em-net.ne.jp/~kenken/machikania/typepu.html)へ移植しました。  
 
